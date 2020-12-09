@@ -1,4 +1,4 @@
-# ✔GreenHouse A Social Blog App 
+# GreenHouse A Social Blog App ✔
 This is GreenHouse, a Blog app made by me using Java .
 
 I used android studio as IDE for making this app...
