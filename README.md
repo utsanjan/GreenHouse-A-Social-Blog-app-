@@ -16,7 +16,7 @@ Firebase is used as the key server and for the data storage of the user posts...
 
 Feel free to use this application and do report me the bugs if you find one , accordingly I will accept fork requests ✌🏻
 
-Incase anyone wants to test the application do clone from this Repo 👍🏻
+Incase anyone wants to test the application do clone from this Repository 👍🏻
 
 
 
