@@ -9,8 +9,8 @@
 </h1>
 
 
-<p align="center">This is GreenHouse, a Blog app made by me using Java.<br>
-I used android studio as IDE for making this app,<br>
+<p align="center">A minimal Social Blog App coded with Java.<br>
+I used Android Studio as IDE for making this application,<br>
 Firebase is used as the key server and<br>
 for the data storage of the user posts.</p>
 
