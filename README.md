@@ -22,10 +22,11 @@ for the data storage of the user posts.</p>
 🔸 Profiles can be customised whenever needed<br>
 🔸 Password reset can also be performed in case you forget the password<br>
 
-Feel free to use this application and do report me the bugs if you find one ,
-accordingly I will accept fork requests ✌🏻
-Incase anyone wants to test the application<br>
-do clone it from this Repository 👍🏻
+Feel free to use this application
+<br>and do report me the bugs if you find one,
+<br>accordingly I will accept fork requests ✌🏻
+<br>Incase anyone wants to test the application
+<br>do clone it from this Repository 👍🏻
 
 ## 📩 Contact me  
 
