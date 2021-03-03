@@ -11,15 +11,16 @@
 
 <p align="center">This is GreenHouse, a Blog app made by me using Java.<br>
 I used android studio as IDE for making this app,<br>
-Firebase is used as the key server and for the data storage of the user posts.</p>
+Firebase is used as the key server and<br>
+for the data storage of the user posts.</p>
 
 ## ✔ Features
 
-🔸 Here we can post pictures in the blog
-🔸 Used Otp verification during Signup process
-🔸 Users can like and comment on the posts
-🔸 Profiles can be customised whenever needed
-🔸 Password reset can also be performed in case you forget the password
+🔸 Here we can post pictures in the blog<br>
+🔸 Used Otp verification during Signup process<br>
+🔸 Users can like and comment on the posts<br>
+🔸 Profiles can be customised whenever needed<br>
+🔸 Password reset can also be performed in case you forget the password<br>
 
 Feel free to use this application and do report me the bugs if you find one ,
 accordingly I will accept fork requests ✌🏻
