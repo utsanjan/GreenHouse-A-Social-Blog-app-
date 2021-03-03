@@ -28,6 +28,11 @@ Feel free to use this application
 <br>Incase anyone wants to test the application
 <br>do clone it from this Repository 👍🏻
 
+## ⬇ Releases
+
+Download the GreenHouse Apk file from below:<br>
+🔗 [GreenHouse v1.0 Alpha Release](https://github.com/utsanjan/GreenHouse/raw/main/GreenHouse_release-v1.0_Alpha.apk)
+
 ## 📩 Contact me  
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
