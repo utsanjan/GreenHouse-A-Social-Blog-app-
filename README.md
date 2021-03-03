@@ -1,5 +1,5 @@
 # GreenHouse A Social Blog App ✔
-This is GreenHouse, a Blog app made by me using Java .
+This is GreenHouse, a Blog app made by me using Java.
 I used android studio as IDE for making this app,
 Firebase is used as the key server and for the data storage of the user posts.
 
