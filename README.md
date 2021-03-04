@@ -28,7 +28,9 @@ Feel free to use this application
 <br>Incase anyone wants to test the application
 <br>do clone it from this Repository 👍🏻 <br>
 
-📲 For Screenshots click on
+## App Screenshots
+
+For Screenshots click on
 <br>the button below:
 
 <a href="https://www.facebook.com/photo?fbid=1198653947178402&set=pcb.1198654260511704"><img alt="Screenshots" title="Screenshots" src="https://1.bp.blogspot.com/-Gdh1JW1r7ec/YEC-8s75w6I/AAAAAAAAbdA/aGRp8zkwhcMk7ZGZy-fbePHBDzNb_pOhwCLcBGAsYHQ/w200-h200/ss.png"/></a>
