@@ -14,7 +14,7 @@ I used Android Studio as IDE for making this application,<br>
 Firebase is used as the key server and<br>
 for the data storage of the user posts.</p>
 
-## ✔ Features
+## Features
 
 🔸 Here we can post pictures in the blog<br>
 🔸 Used Otp verification during Signup process<br>
@@ -28,12 +28,12 @@ Feel free to use this application
 <br>Incase anyone wants to test the application
 <br>do clone it from this Repository 👍🏻
 
-## ⬇ Releases
+## Releases
 
 Download the GreenHouse Apk file from below:<br>
 🔗 [GreenHouse v1.0 Alpha Release](https://github.com/utsanjan/GreenHouse/raw/main/GreenHouse_release-v1.0_Alpha.apk)
 
-## 📩 Contact me  
+## Contact me  
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
