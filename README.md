@@ -26,15 +26,11 @@ Feel free to use this application
 <br>and do report me the bugs if you find one,
 <br>accordingly I will accept fork requests ✌🏻
 <br>Incase anyone wants to test the application
-<br>do clone it from this Repository 👍🏻
+<br>do clone it from this Repository 👍🏻 <br>
 
-## Screenshots
+📲 For Screenshots click on the button below:
 
-[![](https://1.bp.blogspot.com/-757oGnLKUzk/YEC6mof7rpI/AAAAAAAAbcw/t0aTPHScTgMBb_YM2bPecV2BOheQ4efxgCLcBGAsYHQ/w93-h200/1.png)](https://1.bp.blogspot.com/-757oGnLKUzk/YEC6mof7rpI/AAAAAAAAbcw/t0aTPHScTgMBb_YM2bPecV2BOheQ4efxgCLcBGAsYHQ/s16000/1.png)
-
-[![](https://1.bp.blogspot.com/-757oGnLKUzk/YEC6mof7rpI/AAAAAAAAbcw/t0aTPHScTgMBb_YM2bPecV2BOheQ4efxgCLcBGAsYHQ/w93-h200/1.png)](https://1.bp.blogspot.com/-757oGnLKUzk/YEC6mof7rpI/AAAAAAAAbcw/t0aTPHScTgMBb_YM2bPecV2BOheQ4efxgCLcBGAsYHQ/s16000/1.png)
-
-<a href="https://1.bp.blogspot.com/-NCaYyDgFchE/YEC7rl6szhI/AAAAAAAAbc4/bxnrRfh7My41mqcuw-f2UVGIIdDTVMCkACLcBGAsYHQ/s0/2.png"><img alt="Screenshot-1" title="Screenshots" src="https://1.bp.blogspot.com/-NCaYyDgFchE/YEC7rl6szhI/AAAAAAAAbc4/bxnrRfh7My41mqcuw-f2UVGIIdDTVMCkACLcBGAsYHQ/w93-h200/2.png"/></a>
+<a href="https://www.facebook.com/photo?fbid=1198653947178402&set=pcb.1198654260511704"><img alt="Screenshots" title="Screenshots" src="https://1.bp.blogspot.com/-Gdh1JW1r7ec/YEC-8s75w6I/AAAAAAAAbdA/aGRp8zkwhcMk7ZGZy-fbePHBDzNb_pOhwCLcBGAsYHQ/w200-h200/ss.png"/></a>
 
 ## Releases
 
