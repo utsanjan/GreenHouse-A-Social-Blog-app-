@@ -35,7 +35,7 @@ For Screenshots click on
 
 <a href="https://www.facebook.com/photo?fbid=1198653947178402&set=pcb.1198654260511704"><img alt="Screenshots" title="Screenshots" src="https://1.bp.blogspot.com/-Gdh1JW1r7ec/YEC-8s75w6I/AAAAAAAAbdA/aGRp8zkwhcMk7ZGZy-fbePHBDzNb_pOhwCLcBGAsYHQ/w200-h200/ss.png"/></a>
 
-## Releases
+## Apk Releases
 
 Download the GreenHouse Apk file from below:<br>
 🔗 [GreenHouse v1.0 Alpha Release](https://github.com/utsanjan/GreenHouse/raw/main/GreenHouse_release-v1.0_Alpha.apk)
