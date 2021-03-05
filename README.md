@@ -30,7 +30,7 @@ Feel free to use this application
 
 ## App Screenshots
 
-For Screenshots click on
+For Screenshots click
 <br>the button below 🔻
 
 <a href="https://www.facebook.com/photo?fbid=1198653947178402&set=pcb.1198654260511704"><img alt="Screenshots" title="Screenshots" src="https://1.bp.blogspot.com/-T1y0oWq5nIE/YEGpMAq7ebI/AAAAAAAAbfc/Wjlnp6UTm8EEdXMHeNN5CBieBUzCF6XuACLcBGAsYHQ/s16000/ss.png"/></a>
