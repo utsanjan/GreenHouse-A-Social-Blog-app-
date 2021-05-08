@@ -3,7 +3,7 @@
   <a href="https://github.com/utsanjan/GreenHouse">
   <img src="https://1.bp.blogspot.com/-t3WFjSryxUc/YD8_JGwEfcI/AAAAAAAAbZc/T9ueL13SzGYar40mb-aie3lJ74Vjn0NYACLcBGAsYHQ/s200/__launcher_icon.png"
   alt="GreenHouse">
-  </a><br><br>
+  </a><br>
   GreenHouse v1.0 Alpha
   <br>
 </h1>
