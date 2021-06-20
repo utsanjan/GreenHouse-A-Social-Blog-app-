@@ -14,7 +14,7 @@ I used Android Studio as IDE for making this application,<br>
 Firebase is used as the key server and<br>
 for the data storage of the user posts.</p>
 
-## Features 
+## Features
 
 🔸 Here we can post pictures in the blog<br>
 🔸 Used Otp verification during Signup process<br>
